@@ -1,6 +1,6 @@
 # Stage 4 – CI/CD Pipeline Project
 
-![CI Pipeline](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/ci.yml/badge.svg)
+![CI Pipeline](https://github.com/NerdieBountie/stage4-ci-pipeline/actions/workflows/ci.yml/badge.svg)
 
 A Python calculator module with a full automated test suite wired to GitHub Actions CI. Every push and pull request triggers the pipeline automatically — no manual intervention required.
 
@@ -37,7 +37,7 @@ A Python calculator module with a full automated test suite wired to GitHub Acti
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/NerdieBountie/stage4-ci-pipeline
 cd YOUR_REPO
 
 # 2. Install dependencies
